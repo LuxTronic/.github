@@ -30,7 +30,7 @@ We will acknowledge receipt promptly (see timeline below).
 
 We prioritize security fixes for:
 - Production services and APIs currently in active use
-- Repositories under the LuxTrronic GitHub organization that are not archived
+ - Repositories under the LuxTronic GitHub organization that are not archived
 - Latest major release lines of any published SDKs or libraries
 
 Out-of-support:

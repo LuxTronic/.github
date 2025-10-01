@@ -21,7 +21,7 @@ We're building intelligent solutions that transform how businesses operate and h
 
 ## 🔗 Connect With Us
 
-🌐 [www.luxtronic.ai](https://www.luxtronic.ai) | 💼 [LinkedIn]([https://www.linkedin.com/company/luxtronic-ai](https://www.linkedin.com/company/luxtronicai/))
+🌐 [www.luxtronic.ai](https://www.luxtronic.ai) | 💼 [LinkedIn](https://www.linkedin.com/company/luxtronicai/)
 
 ---
 

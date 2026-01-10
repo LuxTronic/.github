@@ -5,6 +5,11 @@
 
 We build real-time inspection and manufacturing-intelligence systems for mass-pack production—especially aluminium cans and glass bottles. Our software turns images from multi-camera rigs into on-line decisions and integrates with PLCs, SCADA, and MES to close the loop on the line.
 
+## **6.4B inspections in 2025**
+
+In 2025 alone, LuxTronic systems inspected **over 6.4 billion units** in live, high-speed production environments across aluminium can and glass bottle lines worldwide.
+
+
 [![Website](https://img.shields.io/badge/luxtronic.ai-000?style=flat&logo=google-chrome&logoColor=white)](https://www.luxtronic.ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/luxtronicai/)
 ![Domain](https://img.shields.io/badge/Domain-Industrial%20AI%20%2F%20CV-blueviolet)
@@ -25,6 +30,21 @@ LuxTronic designs **real-time, high-throughput inspection systems** for high-vol
 - **Industrial Integration:** encoders, digital I/O, rejecters; OPC UA / MQTT / Modbus; PLC, SCADA, MES connectivity  
 
 Our systems produce **rich defect tracking and per-unit lineage** (time, lane, turret/mold/cavity) and feed into SPC dashboards, trend analytics, and automated response logic.
+
+---
+
+## 📈 Massive Scale
+
+The following LuxTronic systems each exceeded **100 million inspections** in live production, with several operating well into the **hundreds of millions to multi-billion** range:
+
+| System       | Description | Total Inspections |
+|-------------|-------------|------------------:|
+| FinishPRO   | Hyper-detailed glass bottle rim quality | 118M |
+| CasePerfect | Verify case packing and completeness | 232M |
+| Sidewall    | Glass bottle and jar side inspection | 451M |
+| MassIntell  | Total line monitoring, tracking, and unit counts | 777M |
+| WashGuard   | Verify every unit's correct orientation before washing | 2.3B |
+| UVBC        | Inspection unit coatings invisible to the naked eye | 2.5B |
 
 ---
 
